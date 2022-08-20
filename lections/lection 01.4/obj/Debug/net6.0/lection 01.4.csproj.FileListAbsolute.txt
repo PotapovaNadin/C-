@@ -1,0 +1,15 @@
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/bin/Debug/net6.0/lection 01.4
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/bin/Debug/net6.0/lection 01.4.deps.json
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/bin/Debug/net6.0/lection 01.4.runtimeconfig.json
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/bin/Debug/net6.0/lection 01.4.dll
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/bin/Debug/net6.0/lection 01.4.pdb
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.csproj.AssemblyReference.cache
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.AssemblyInfoInputs.cache
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.AssemblyInfo.cs
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.csproj.CoreCompileInputs.cache
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.dll
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/refint/lection 01.4.dll
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.pdb
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/lection 01.4.genruntimeconfig.cache
+/Users/nadezdapotapova/Desktop/C#/lections/lection 01.4/obj/Debug/net6.0/ref/lection 01.4.dll
