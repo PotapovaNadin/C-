@@ -1,0 +1,15 @@
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/bin/Debug/net6.0/1.02homework
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/bin/Debug/net6.0/1.02homework.deps.json
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/bin/Debug/net6.0/1.02homework.runtimeconfig.json
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/bin/Debug/net6.0/1.02homework.dll
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/bin/Debug/net6.0/1.02homework.pdb
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.csproj.AssemblyReference.cache
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.AssemblyInfoInputs.cache
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.AssemblyInfo.cs
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.csproj.CoreCompileInputs.cache
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.dll
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/refint/1.02homework.dll
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.pdb
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/1.02homework.genruntimeconfig.cache
+/Users/nadezdapotapova/Desktop/C#/homework/1.02homework/obj/Debug/net6.0/ref/1.02homework.dll
