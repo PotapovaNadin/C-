@@ -12,7 +12,7 @@ Console.WriteLine($"{(number / 10) % 10}"); */
 78 -> третьей цифры нет
 32679 -> 6 */
 
-/* Console.Write("введите число ");
+Console.Write("введите число ");
 int number = Convert.ToInt32(Console.ReadLine());
 int currentNumber = number;
 
@@ -35,7 +35,7 @@ return (third);
 } 
    
 int thirdNumber = FindThreeDigit(number);
-Console.WriteLine(thirdNumber);  */
+Console.WriteLine(thirdNumber); 
 
 /* Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 6 -> да
