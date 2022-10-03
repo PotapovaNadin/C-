@@ -1,0 +1,15 @@
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/bin/Debug/net6.0/9.01seminar
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/bin/Debug/net6.0/9.01seminar.deps.json
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/bin/Debug/net6.0/9.01seminar.runtimeconfig.json
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/bin/Debug/net6.0/9.01seminar.dll
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/bin/Debug/net6.0/9.01seminar.pdb
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.csproj.AssemblyReference.cache
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.AssemblyInfoInputs.cache
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.AssemblyInfo.cs
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.csproj.CoreCompileInputs.cache
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.dll
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/refint/9.01seminar.dll
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.pdb
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/9.01seminar.genruntimeconfig.cache
+/Users/nadezdapotapova/Desktop/C#/seminars/9.01seminar/obj/Debug/net6.0/ref/9.01seminar.dll
